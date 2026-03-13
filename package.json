@@ -1,0 +1,23 @@
+{
+  "name": "paylocity-study",
+  "version": "1.0.0",
+  "description": "getting familiar with the paylocity website",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedandy/paylocity-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/codedandy/paylocity-study/issues"
+  },
+  "homepage": "https://github.com/codedandy/paylocity-study#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
